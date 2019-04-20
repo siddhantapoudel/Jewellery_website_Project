@@ -12,10 +12,6 @@ Languages used:
 
 -SQL
 
-Access The Admin Panel of the website.
-
-To access the admin panel goto https://muktinathjewels.000webhostapp.com/views/admin.php and enter the username:admin and password:jaymuktinath
-
 Features Of the Website:
 
 1)Mobile Friendly Responsive Site With Image Gallery.
@@ -29,3 +25,7 @@ portion of the page.
 and the original image is also stored which is used when the image is viewed from image viewer.
 
 5)Google maps api to show the location of the shop.
+
+Access The Admin Panel of the website.
+
+To access the admin panel goto https://muktinathjewels.000webhostapp.com/views/admin.php and enter the username:admin and password:jaymuktinath
