@@ -28,4 +28,4 @@ and the original image is also stored which is used when the image is viewed fro
 
 Access The Admin Panel of the website.
 
-To access the admin panel goto https://muktinathjewels.000webhostapp.com/views/admin.php and enter the username:admin and password:jaymuktinath
+To access the admin panel goto https://muktinathjewels.000webhostapp.com/views/admin.php and enter the username:admin and password:jaymuktinath (can only be accessed via desktop)
