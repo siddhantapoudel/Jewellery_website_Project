@@ -174,8 +174,6 @@
   -->
 </footer>
 
-<script src="../public/js/show_list_product.js"></script>
-<script src="../public/js/login_index.js"></script>
 </body>
 
 <?php include 'footer.php'; ?>
