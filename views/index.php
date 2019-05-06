@@ -163,15 +163,7 @@
     </div>
 
     <!-- create footer -->
-    <!--
-    <div class="nav navbar-default">
-        <div class="container  ">
-            <div class="navbar-text navbar-right">
-                &copy; Copyright 2018, Hanoi University Of Science And Technology
-            </div>
-        </div>
-    </div>
-  -->
+    
 </footer>
 
 </body>
