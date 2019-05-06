@@ -161,11 +161,7 @@
             </div>
         </div>
     </div>
-
-    <!-- create footer -->
-    
-</footer>
-
+</Footer>
 </body>
 
 <?php include 'footer.php'; ?>
